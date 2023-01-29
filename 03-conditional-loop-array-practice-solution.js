@@ -1,6 +1,6 @@
 // solution of question no. 28
 
-var myMoney = 27000
+var myMoney = 15000
 
 if(myMoney > 80000){
     console.log('I will buy a mac');
@@ -22,7 +22,7 @@ else{
 
 // solution of question no. 29
 
-for(var i = 0; i <= 39; i++){
+for(var i = 1; i <= 39; i++){
     console.log(i);
     console.log('Today i am not in sound mood');
 }
@@ -55,7 +55,7 @@ for(var i = 581; i <= 623; i+=2){
 
 // solution of question no. 33
 
-var programmingLearning = ['HTML', 'CSS', 'Git', 'Github', 'Bootstrap', 'Tailwind', 'Netlify', 'JavaScript'];
+var programmingLearning = ['HTML', 'CSS', 'Git', 'Github', 'VS_Code', 'Bootstrap', 'Tailwind', 'Netlify', 'JavaScript'];
 
 for(var i = 0; i < programmingLearning.length; i++){
     var learningTopic = programmingLearning[i]
